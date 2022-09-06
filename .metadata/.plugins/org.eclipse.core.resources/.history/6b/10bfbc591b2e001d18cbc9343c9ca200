@@ -1,0 +1,36 @@
+package br.senai.sp.jandira;
+
+public class Tabuada {
+	
+	//atributos
+	
+	public int maxMultiplicado;
+	public int minMultiplicado;
+	public int multiplicando;
+	
+	int i = 0;
+	int maior = 0;
+	int numeros = 0;
+	
+	
+	
+		public String[] getTabuada(){
+		int tamanho = maxMultiplicado - minMultiplicado + 1;
+		
+		int contador = 0;
+		
+		while (contador < tamanho) {
+			int resultado = multiplicando * minMultiplicado;
+			
+		}
+		
+		String[] tabuada = new String [tamanho];
+		return tabuada;
+	 
+
+	
+		
+		}
+	}
+	
+

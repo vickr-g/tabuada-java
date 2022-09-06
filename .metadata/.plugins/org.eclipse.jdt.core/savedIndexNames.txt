@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\22282222\.eclipse\org.eclipse.oomph.p2\.metadata\.plugins\org.eclipse.jdt.core
+1896233950.index
+1865797976.index
